@@ -1,2 +1,3 @@
-# practucum_portfolio
-My portfolio from Yandex Practicum with study projects
+# My study projects from Yandex Practicum
+
+## Bank users analysis
