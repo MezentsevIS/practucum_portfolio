@@ -1,4 +1,5 @@
-# My study projects from Yandex Practicum
+# Some of my study projects from Yandex Practicum
+(in the process of filling)
 
 ## Bank borrowers analysis
 
