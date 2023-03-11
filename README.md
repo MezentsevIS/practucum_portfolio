@@ -1,24 +1,26 @@
-# Some of my study projects from Yandex Practicum
+# Some examples of my study projects from Yandex Practicum
 (in the process of filling)
 
-## Bank borrowers analysis
+| Название проекта | Описание | Используемые библиотеки |
+| :----------------------: | :---------------------------:| :-----------------------: |
+| [Исследование объявлений о продаже квартир](https://github.com/MezentsevIS/practucum_portfolio/tree/main/real_estate_ads) | На основание данных сервиса Яндекс Недвижимость научиться определять рыночную стоитмость объектов, установив важные параметры и взаимосвязи. | pandas |
+| [Анализ поведения пользователей и эффективности маркетинговых расходов](https://github.com/MezentsevIS/practucum_portfolio/tree/main/gamers_behaviour_marketing_costs) | На основание логов активности проанализировать поведение игроков в зависимости от источника перехода, проверить статистические гипотезы, проранжировать маркетинговые каналы по эффективности.  | pandas, numpy, scipy.stats, matplotlib, seaborn, plotly.express |
+| [A/B-тест рекомендательной системы магазина](https://github.com/MezentsevIS/practucum_portfolio/tree/main/recomender_system_ab_test) | На основании данных об активности пользователей проверить корректность проведения А/В-теста и оценить эффективность внедрения новой рекомендательной системы - проверить гипотезу об увеличении коневерсии. | pandas, numpy, scipy.stats, matplotlib, seaborn, plotly.express |
 
-## Real estate advertisements
+## Other projects
 
-## Mobile operator customers
+### Bank borrowers analysis
 
-## Games sales analytics
+### Mobile operator customers
 
-## SQL practice
+### Games sales analytics
 
-## Mobile app business metrics
+### SQL practice
 
-## Online store A/B-test analysis
+### Mobile app business metrics
 
-## Analysis of e-grocery customers behaviour
+### Online store A/B-test analysis
 
-## Analysis of Moscow food service market
+### Analysis of e-grocery customers behaviour
 
-## Game sales and gamers behaviour analysis
-
-## A/B-test of new recomender system
+### Analysis of Moscow food service market
