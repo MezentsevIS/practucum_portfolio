@@ -1,5 +1,7 @@
 # Анализ результатов A/B-теста
 
+[Ноутбук проекта с динамическими графиками](https://nbviewer.org/github/MezentsevIS/practucum_portfolio/blob/main/recomender_system_ab_test/recomender_system_ab_test.ipynb)
+
 ## Цель
 
 - Оценить эффективность внедрения новой рекомендательной системы - проверить гипотезу об увеличении коневерсии.
