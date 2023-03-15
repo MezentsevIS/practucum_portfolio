@@ -1,5 +1,7 @@
 # Анализ рынка заведений общественного питания Москвы
 
+[Ноутбук проекта с динамическими графиками](https://nbviewer.org/github/MezentsevIS/practucum_portfolio/blob/main/moscow_catering_market/moscow_catering_market.ipynb)
+
 ## Цель исследования
 
 Помочь инвесторам с выбором категории и места для открытия заведения общественного питания в городе Москва.
